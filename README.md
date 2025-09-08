@@ -6,10 +6,26 @@ This project implements a complete data engineering pipeline for sleep health an
 ## Features
 - Data extraction and cleaning pipeline
 - Sleep pattern analysis
+- Interactive web application for real-time health assessment
 - Interactive visualizations with Power BI and Tableau support
 - Machine learning insights and health predictions
 - Data quality monitoring
 - Automated reporting
+
+## Interactive Web Application
+The project includes a Streamlit-based web application that provides:
+- Real-time sleep health assessment
+- Personalized health risk analysis
+- Sleep pattern visualization
+- Health recommendations
+- Sleep tracking functionality
+
+To run the web app:
+```bash
+cd web_app
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ## Project Structure
 ```
