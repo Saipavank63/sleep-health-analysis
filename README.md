@@ -8,7 +8,15 @@
 ## 📋 Overview
 An advanced data engineering and machine learning project that provides comprehensive sleep health analysis and personalized health predictions. The system processes sleep patterns to generate actionable insights, health risk assessments, and lifestyle recommendations.
 
-![Sleep Health Analysis Dashboard](https://raw.githubusercontent.com/Saipavank63/sleep-health-analysis/main/web_app/screenshot.png)
+### Application Screenshots
+
+#### Health Metrics and Analysis
+![Health Metrics Dashboard](docs/screenshots/health_metrics.png)
+*Real-time health risk assessment and sleep stage analysis*
+
+#### Sleep Tracking and Recommendations
+![Sleep Tracking Interface](docs/screenshots/sleep_tracking.png)
+*Personalized recommendations and sleep tracking functionality*
 
 ## ⭐ Key Features
 - **Real-time Health Assessment**: Interactive web application for immediate health insights
