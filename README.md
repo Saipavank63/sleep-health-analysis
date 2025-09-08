@@ -1,7 +1,15 @@
-# Sleep Health Data Engineering Project
+# Sleep Health Analysis Project
 
 ## Overview
-This project implements a complete data engineering pipeline for sleep health analysis, including data collection, processing, storage, analysis, and visualization.
+This project implements a complete data engineering pipeline for sleep health analysis, including data collection, processing, storage, analysis, and visualization. It provides comprehensive insights into sleep patterns and their impact on health outcomes.
+
+## Features
+- Data extraction and cleaning pipeline
+- Sleep pattern analysis
+- Interactive visualizations with Power BI and Tableau support
+- Machine learning insights and health predictions
+- Data quality monitoring
+- Automated reporting
 
 ## Project Structure
 ```
@@ -15,29 +23,22 @@ sleep_health/
 │   └── models/        # Machine learning models
 │
 ├── notebooks/         # Jupyter notebooks for analysis
+├── data/             # Processed data for visualization
 ├── tests/            # Unit tests
 └── requirements.txt  # Project dependencies
 ```
 
 ## Setup
-1. Create a virtual environment:
+1. Create a conda environment:
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   conda create -n sleep_health python=3.10
+   conda activate sleep_health
    ```
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   conda install pandas numpy scikit-learn matplotlib seaborn plotly jupyter
    ```
-
-## Features
-- Data extraction and cleaning pipeline
-- Sleep pattern analysis
-- Interactive visualizations
-- Machine learning insights
-- Data quality monitoring
-- Automated reporting
 
 ## Usage
 1. Data Processing:
@@ -50,16 +51,21 @@ sleep_health/
    - View interactive visualizations
    - Explore sleep patterns
 
-3. Machine Learning:
-   - Train predictive models
-   - Generate insights
-   - Evaluate performance
+3. Health Predictions:
+   - Analyze sleep patterns
+   - Generate health risk assessments
+   - View life expectancy impacts
+
+4. Visualization:
+   - Export data for Power BI
+   - Create Tableau dashboards
+   - Generate interactive reports
 
 ## Documentation
 Detailed documentation for each module is available in their respective directories.
 
-## Testing
-Run tests using pytest:
-```bash
-pytest tests/
-```
+## Contributing
+Feel free to fork the repository and submit pull requests for any improvements.
+
+## License
+MIT License
