@@ -8,6 +8,8 @@
 ## 📋 Overview
 An advanced data engineering and machine learning project that provides comprehensive sleep health analysis and personalized health predictions. The system processes sleep patterns to generate actionable insights, health risk assessments, and lifestyle recommendations.
 
+🔴 **Live Demo**: [Access the live application here](https://sleep-health-analysis.streamlit.app/)
+
 ### Application Screenshots
 
 #### Health Metrics and Analysis
