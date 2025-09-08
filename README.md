@@ -165,6 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Scientific papers and research references
 
 ## 📧 Contact
-Sai Pavan Katineedi - [@LinkedIn](https://linkedin.com/in/yourprofile) - your.email@example.com
+Sai Pavan - [@LinkedIn]([(https://www.linkedin.com/in/saipavank/)]) - saipavank0801@gmail.com
 
 Project Link: [https://github.com/Saipavank63/sleep-health-analysis](https://github.com/Saipavank63/sleep-health-analysis)
