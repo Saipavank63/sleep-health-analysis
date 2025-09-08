@@ -11,11 +11,11 @@ An advanced data engineering and machine learning project that provides comprehe
 ### Application Screenshots
 
 #### Health Metrics and Analysis
-![Health Metrics Dashboard](docs/screenshots/health_metrics.png)
+![Health Metrics Dashboard](https://github.com/Saipavank63/sleep-health-analysis/raw/main/web_app/images/health_metrics.png)
 *Real-time health risk assessment and sleep stage analysis*
 
 #### Sleep Tracking and Recommendations
-![Sleep Tracking Interface](docs/screenshots/sleep_tracking.png)
+![Sleep Tracking Interface](https://github.com/Saipavank63/sleep-health-analysis/raw/main/web_app/images/sleep_tracking.png)
 *Personalized recommendations and sleep tracking functionality*
 
 ## ⭐ Key Features
